@@ -11,8 +11,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-yellow)
-![TypeScript](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-007ACC?style=for-the-badge&logo=ai&logoColor=white)
+![Ai](https://img.shields.io/badge/Machine_learning-9cf?style=for-the-badge&logo=ai&logoColor=white)
+![Ai](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-007ACC?style=for-the-badge&logo=ai&logoColor=white)
 ![C](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-4EA94B?style=for-the-badge&logo=Flask&logoColor=white)
@@ -23,7 +23,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_learning-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+![Numpy](https://img.shields.io/badge/Nympy-blueviolet?style=for-the-badge&logo=Numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-F05032?style=for-the-badge&logo=Pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-563D7C?style=for-the-badge&logo=Keras&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-blue?style=for-the-badge&logo=Pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-orange?style=for-the-badge&logo=Docker&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-critical?style=for-the-badge&logo=Tensorflow&logoColor=white)
 
 ## About Me
 
