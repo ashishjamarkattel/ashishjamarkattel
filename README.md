@@ -110,7 +110,6 @@ Feel free to connect with me I would love to know about you.
 ![](https://github-readme-stats.vercel.app/api?username=ashishjamarkattel&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark)
 
 
-[![Abdullah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjamarkattel&theme=blue-green)]
 
 <!-- ![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aarif123456.aarif123456&color=00cf00&style=for-the-badge)  -->
 
