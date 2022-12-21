@@ -102,6 +102,11 @@ Feel free to connect with me I would love to know about you.
 
 ## Stats 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishjamarkattel&show_icons=true&theme=dark&locale=en&layout=compact" alt="ashishjamarkattel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishjamarkattel&show_icons=true&theme=dark&locale=en" alt="ashishjamarkattel" /></p>
+
 ![](https://github-readme-stats.vercel.app/api?username=ashishjamarkattel&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark)
 
 
