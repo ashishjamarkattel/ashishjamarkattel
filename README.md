@@ -108,6 +108,6 @@ Feel free to connect with me I would love to know about you.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishjamarkattel&show_icons=true&theme=dark&locale=en" alt="ashishjamarkattel" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishjamarkattel&theme=dark" alt="ashishjamarkattel" /></p>
 
-<!-- ![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aarif123456.aarif123456&color=00cf00&style=for-the-badge)  -->
+![Visitor Count](https://profile-counter.glitch.me/ashishjamarkattel/count.svg)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=ashishjamarkattel&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p> -->
